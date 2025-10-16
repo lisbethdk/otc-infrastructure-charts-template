@@ -14,7 +14,7 @@ defaultDashboard:
     prometheus:
       enabled: "false"
     elasticsearch:
-      enabled: "false"
+      enabled: "true"
     vault:
       enabled: "false"
     otc:
@@ -25,3 +25,5 @@ defaultDashboard:
       enabled: "false"
     keycloak:
       enabled: "false"
+    kibana:
+      enabled: "true"
