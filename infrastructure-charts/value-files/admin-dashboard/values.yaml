@@ -15,6 +15,7 @@ defaultDashboard:
       enabled: "false"
     elasticsearch:
       enabled: "true"
+      href: "kibana/app/elasticsearch"
     vault:
       enabled: "false"
     otc:
@@ -27,3 +28,4 @@ defaultDashboard:
       enabled: "false"
     kibana:
       enabled: "true"
+      href: "kibana/app/discover"
